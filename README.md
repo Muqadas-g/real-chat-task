@@ -101,5 +101,4 @@ function getAIResponse(msg) {
 
 ## 📜 License
 
-MIT © 2023 [Your Name]
-
+MIT © 2025 Muqaddas Imtiaz
